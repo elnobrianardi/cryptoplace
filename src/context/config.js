@@ -1,5 +1,5 @@
 const config = {
-    COINGECKO_API_KEY: 'CG-hx4h6xjRLmCnByw8Anfa9BZN',
+    COINGECKO_API_KEY: 'YOUR_API_KEY',
   };
   
 export default config;
